@@ -1,0 +1,14 @@
+.buttons{
+    background-color:magenta;
+    font-style: oblique;
+}
+
+body{
+    background-position:center;
+    background-size: cover;
+}
+
+.back{
+    background-color: black;
+    color:white
+}
